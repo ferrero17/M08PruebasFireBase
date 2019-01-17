@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324244596770",
+    "firebase_url": "https://m08-pruebasfirebase.firebaseio.com",
+    "project_id": "m08-pruebasfirebase",
+    "storage_bucket": "m08-pruebasfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324244596770:android:81017815a3d744dc",
+        "android_client_info": {
+          "package_name": "com.example.dani.m08_pruebasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324244596770-mfgp8r4fa5sfgrtub6kqdv9bbit6iqjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dani.m08_pruebasfirebase",
+            "certificate_hash": "ed8e84f2a03569fca36988e3112acc3e8c3ba06c"
+          }
+        },
+        {
+          "client_id": "324244596770-afkj3fdlq8ge39j2kfrbnl11vt0dft24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8rxoKeRiNfKDwuwBkKUjaL-ySJr54lA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324244596770-afkj3fdlq8ge39j2kfrbnl11vt0dft24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
